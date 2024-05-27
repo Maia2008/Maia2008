@@ -2,7 +2,7 @@
 
 Meu nome é nicolas maia
 
--Estou estudando no alura
+-Estou estudando no [Alura](https://www.alura.com.br)
 
 -Estou aprendendo codico JavaScript
 
