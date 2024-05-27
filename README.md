@@ -2,9 +2,9 @@
 
 Meu nome é nicolas maia
 
--Estou estudando no [Alura](https://www.alura.com.br)
+- Estou estudando no [Alura](https://www.alura.com.br)
 
--Estou aprendendo codico JavaScript
+- Estou aprendendo codico JavaScript
 
 ### Para entrar em contato comigo 📧
 ressurgentes.ff@gmail.com
