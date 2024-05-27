@@ -9,4 +9,4 @@ Meu nome é nicolas maia
 ### Para entrar em contato comigo 📧
 ressurgentes.ff@gmail.com
 
-![](https://tenor.com/pt-BR/view/troll-face-meme-trololo-cursed-gif-21288173)
+![troll-face](https://github.com/Maia2008/Maia2008/assets/170836814/fd0cbb75-2ab6-44df-9278-9a4073d8ea51)
